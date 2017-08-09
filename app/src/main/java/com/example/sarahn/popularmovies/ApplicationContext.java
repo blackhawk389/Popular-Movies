@@ -1,4 +1,4 @@
-package com.example.sarahn.popularmovies.network;
+package com.example.sarahn.popularmovies;
 
 import android.app.Application;
 import android.content.Context;
